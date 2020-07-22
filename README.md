@@ -1,6 +1,6 @@
 # design-pattern-chain-responsability
 ## UML
-![Screenshot](https://raw.github.com/nayara-student/design-pattern-chain-responsability/master/ChainResponsability.png)
+![ScreenShot](https://raw.github.com/nayara-student/design-pattern-adapter/master/ChainResposability.png)
 
 ## Youtube Video
 
